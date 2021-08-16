@@ -1,0 +1,10 @@
+elasticsearch==7.11.0
+tensorflow==2.4.1
+keras==2.4.3
+numpy
+pandas==1.2.4
+tqdm==4.60.0
+requests
+sklearn
+pillow
+

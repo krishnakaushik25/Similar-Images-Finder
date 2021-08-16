@@ -1,0 +1,98 @@
+{
+    "took": 19,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 30,
+            "relation": "eq"
+        },
+        "max_score": 0.002028269,
+        "hits": [{
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "a0fc738e-8e81-46f0-a6da-e3e882b2e8a8",
+            "_score": 0.002028269,
+            "_source": {
+                "image_name": "0a919740-6cac-4858-acfe-1625ce13d661.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "a8e613bc-7f7c-4687-bcea-54ea44a734b6",
+            "_score": 0.0018925412,
+            "_source": {
+                "image_name": "0f936b74-440f-4f08-8a2a-bba1e4c1573a.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "54c90c09-a64f-4232-86b5-022549a45c84",
+            "_score": 0.0018901217,
+            "_source": {
+                "image_name": "f1449596-eb5a-4eb6-b48e-f66ff73f86c1.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "1bf892d5-12b4-4f50-b49b-3bf8924d0267",
+            "_score": 0.0018755916,
+            "_source": {
+                "image_name": "bd736d59-f275-4c08-9aa4-a7436d6101d6.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "8ab9a0a4-30bc-42fe-8c68-0c80df829036",
+            "_score": 0.0018354241,
+            "_source": {
+                "image_name": "199de890-fef8-4b63-8e4a-6de1410c0ce5.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "1178ae8f-b789-405f-a905-8ab478bc99cd",
+            "_score": 0.0018354241,
+            "_source": {
+                "image_name": "72c83ff8-d376-4752-977b-5cb005371196.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "059f130b-b05c-4de2-b9dc-08c509fe3a56",
+            "_score": 0.001805799,
+            "_source": {
+                "image_name": "c1ee88b7-0654-487a-bf99-52148ef163f9.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "48c08ce6-11a4-4fc6-8949-8844bf6bb3aa",
+            "_score": 0.0017909536,
+            "_source": {
+                "image_name": "57c2e5cb-a3f0-4db3-ad88-d2f8470073da.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "ca339f56-695e-4860-acc5-d0cd86269f84",
+            "_score": 0.0017790155,
+            "_source": {
+                "image_name": "15015508-3d1d-4873-b005-4c5f8bdd20dd.jpg"
+            }
+        }, {
+            "_index": "12",
+            "_type": "_doc",
+            "_id": "bde8f803-516b-490a-8a6c-1aa95b89d162",
+            "_score": 0.0017680536,
+            "_source": {
+                "image_name": "a80995b6-a943-40a0-b776-bd55aaa7c753.jpg"
+            }
+        }]
+    }
+}
