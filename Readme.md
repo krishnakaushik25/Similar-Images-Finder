@@ -25,8 +25,11 @@ Data Source(Imaterialist Dataset) : https://www.kaggle.com/c/imaterialist-produc
   1) Create virtualenv & activate the virtualenv 
   2) Install requirements as pip install -r requirements.txt
   3) There are 3 stages :
+  
      i) Download images from label_id
+     
      ii) Index it in Elasticseach ,index name as label id 
+     
      iii) Query from the input image 
 
 
