@@ -32,15 +32,18 @@ Data Source(Imaterialist Dataset) : https://www.kaggle.com/c/imaterialist-produc
 
 
 1) Download images from label_id
+                                                                   
     We are using Imaterialist Dataset, where given label_id , we are traversing the json file given by Imaterialist,
    and downloading those in a certain specified data path.
    
 2) Indexing using ElasticSeach
+
     Using Feature Extraction ,we are extracting feature from MobileNetV2 with the weights of imagenet ,
    and then flatenning that array, and then we make a index named label_id as given and then we index that image vector 
    with the image name so that we can cross reference it later!!
    
 3) Image2Image Query
+
     In this,we pull out the feature using Feature Extraction using above mentioned way and then use K nearest neighour
     in Elastic search to find K nearest vectors which are having maxium similarity for the queried image.
    
