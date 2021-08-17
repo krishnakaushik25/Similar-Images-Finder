@@ -10,8 +10,10 @@ search and find images of products similar to any given image of a product.
 To find images similar to any given image from the database
 
 ## Tech Stack
-➔ Language : Python
-➔ Cloud support : AWS
+➔ Language : Python                                        
+
+➔ Cloud support : AWS                                          
+
 ➔ Libraries : Elasticsearch, Tensorflow, Keras, Numpy, Pandas, Requests,
 Scikit-learn
 
