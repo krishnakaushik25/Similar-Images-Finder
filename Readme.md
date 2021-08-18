@@ -113,7 +113,7 @@ There are 3 stages :
 
 9. Indexing Using ElasticSearch with Python
 
-10.Querying ElasticDb over Knn with Python
+ 10.Querying ElasticDb over Knn with Python
 
 11. ElasticSearch API in action and understanding ImageSearch Response
     
