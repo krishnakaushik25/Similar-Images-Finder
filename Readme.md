@@ -96,15 +96,25 @@ There are 3 stages :
    
 ## Project Takeaways
 1. KNN Overview
+
 2. Higher Dimensional Database - Overview
+
 3. ANN BenchMarks and libraries of HDDB
+
 4. Downloading Imaterialist using Python Script
+
 5. Understanding MobileNet Architecture
+
 6. Understanding Feature Extraction
+
 7. Setting up ElasticSearch with a plugin for KNN
+
 8. How to connect to ElasticSearch using Python
-9. Indexing Using ElasticSearch with Python                                                                            
+
+9. Indexing Using ElasticSearch with Python 
+                                                                           
 10.Querying ElasticDb over Knn with Python
+
 11. ElasticSearch API in action and understanding ImageSearch Response
     
 [product-screenshot]: images/google_similar_images.png
