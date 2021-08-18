@@ -103,7 +103,7 @@ There are 3 stages :
 6. Understanding Feature Extraction
 7. Setting up ElasticSearch with a plugin for KNN
 8. How to connect to ElasticSearch using Python
-9. Indexing Using ElasticSearch with Python
+9. Indexing Using ElasticSearch with Python                                                                            
 10.Querying ElasticDb over Knn with Python
 11. ElasticSearch API in action and understanding ImageSearch Response
     
