@@ -36,6 +36,12 @@ To find images similar to any given image from the database. Similar to the imag
 
 [![Product Name Screen Shot][product-screenshot]](https://www.linkpicture.com/q/google_similar_images.png)
 
+
+For the theoritical overview of the whole project please go through the pdf file of Complete_theory_steps_overview.pdf which explains KNN and MobileNetV2 architecture and elasticsearch setup.
+
+The pdf file Solution_Methodology.pdf has the details for the complete methodology used in the project.
+
+
 Star⭐ the repo if you like what you see😉.
 
 
