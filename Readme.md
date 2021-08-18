@@ -45,7 +45,9 @@ Star⭐ the repo if you like what you see😉.
 ➔ Libraries : Elasticsearch, Tensorflow, Keras, Numpy, Pandas, Requests, Scikit-learn
 
 
-Data Source(iMaterialist Challenge on Product Recognition) : https://www.kaggle.com/c/imaterialist-product-2019/overview 
+Data Source(iMaterialist Challenge on Product Recognition) 
+
+https://www.kaggle.com/c/imaterialist-product-2019/overview 
 
 
 ## How to setup this project :
