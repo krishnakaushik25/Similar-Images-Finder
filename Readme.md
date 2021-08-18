@@ -28,7 +28,7 @@
 
 ## Business Objective
 
-As online shopping and retail AI become ubiquitous in our daily life, it is imperative for computer vision systems to automatically and accurately recognize products based on images at the stock keeping unit (SKU) level. However, this still remains a challenging problem since there is a large number of SKU-level categories, many of which are fine-grained, with very subtle differences that cannot be easily distinguished. At the same time, images of the same product or SKU can often look different under different conditions (e.g., user generated content v.s. professional generated content).
+As online shopping and retail AI become ubiquitous in our daily life, it is imperative for computer vision systems to automatically and accurately recognize products based on images at the stock keeping unit (SKU) level. However, this still remains a challenging problem since there is a large number of SKU-level categories, many of which are fine-grained, with very subtle differences that cannot be easily distinguished. At the same time, images of the same product or SKU can often look different under different conditions (e.g., user generated content v.s. professional generated content).The core idea of this project is search and find images of  products similar to any given image of a product.
 
 ## Goal
 To find images similar to any given image from the database. Similar to the image finder in google 
